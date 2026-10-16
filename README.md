@@ -1,2 +1,4 @@
 # UTS_SBD
 file sql uploaded
+NAMA: ZAIDAN RIZQI ABDILLAH
+NIM: 1251420102
